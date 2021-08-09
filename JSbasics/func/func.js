@@ -21,5 +21,5 @@ function AddTwoNumbers(num1, num2) {
     document.write(num1 + num2, "<br>");
 }
 
-AddTwoNumbers(10, 20) // 30
-AddTwoNumbers(30, 40) // 70
+AddTwoNumbers(10, 20) // prints 30
+AddTwoNumbers(30, 40) // prints 70
