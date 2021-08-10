@@ -23,3 +23,4 @@ function AddTwoNumbers(num1, num2) {
 
 AddTwoNumbers(10, 20) // prints 30
 AddTwoNumbers(30, 40) // prints 70
+
